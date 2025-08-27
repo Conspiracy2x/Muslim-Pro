@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335706305683",
+    "project_id": "muslim-pro-66652",
+    "storage_bucket": "muslim-pro-66652.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335706305683:android:d6058bdcfba1cab7734966",
+        "android_client_info": {
+          "package_name": "com.example.muslim_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fL0DCl7hJp_cbv6LuV4pxhj2XileIJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335706305683:android:e4a5d2efddc50a87734966",
+        "android_client_info": {
+          "package_name": "com.muslim.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fL0DCl7hJp_cbv6LuV4pxhj2XileIJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
