@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوْتُ وَأَحْيَا",
+      "latin": "bismika, allahumma amuutu wa ahyaa",
+      "translation": "Dengan menyebut nama-Mu, ya Allah! Aku mati dan dan hidup.",
+      "en_translation": "In Your name, O Allah, I die and I live.",
+      "source": "HR. al-Bukhari"
+    },
+    {
+      "id": 2,
+      "arabic": "الحَمْدُ للهِ الَّذِي أَحْيَانَا بعْدَ مَا أماتَنَا وإِلَيْهِ النُّشُورُ",
+      "latin": "alhamdulillahilladzi ahyaanaa ba'da maa amaatanaa wa ilaihin nusyuur",
+      "translation": "Dengan menyebut nama-Mu, ya Allah! Aku mat",
+      "en_translation": "All praise is due to Allah, who gave us life after causing us to die, and to Him is the resurrection.",
+      "source": "HR. al-Bukhari"
+    },
+    {
+      "id": 3,
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "latin": "allahumma innii a'uudzubika minal khubutsi wal khabaaitsi",
+      "translation": "Dengan menyebut nama-Mu, ya Allah! Aku mat",
+      "en_translation": "O Allah, I seek refuge in You from the male and female devils.",
+      "source": "HR. al-Bukhari"
+    },
+    {
+      "id": 4,
+      "arabic": "غُفْرَانَكَ",
+      "latin": "ghuf-raanak",
+      "translation": "Aku mohon ampunan-Mu (ya Allah).",
+      "en_translation": "I seek Your forgiveness (O Allah).",
+      "source": "HR. at-Tirmidzi"
+    },
+    {
+      "id": 5,
+      "arabic": "بِسْمِ اللَّهِ",
+      "latin": "bismillah",
+      "translation": "Dengan nama Allah (aku mulai makan).",
+      "en_translation": "In the name of Allah (I begin eating).",
+      "source": "HR. al-Bukari No. 5376 dan Muslim No. 2022"
+    }
+  ]
+}
